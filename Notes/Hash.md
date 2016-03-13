@@ -1,0 +1,1 @@
+Key benefit: 0(1) insertions, deletions and lookups. Key disadvantages: not suitable for order related queries; need for resizing; poor worst case performance. Understand implementation using array of buckets and collision chains. Know hash functions for integers, strings, objects. Understand importance of equals function. Variants such as Bloom filters.
